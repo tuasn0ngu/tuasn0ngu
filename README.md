@@ -14,7 +14,7 @@
 
 <h1 align="left">📊 Stats and Info:</h1>
 
-<a href="https://github.com/tuasn0ngu target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngoctienTNT&show_icons=true&locale=en&layout=compact" alt="tuasn" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngoctienTNT&show_icons=true&locale=en&layout=compact" alt="tuasn" />
 
 
 <br>
