@@ -44,6 +44,7 @@
 <a href="https://ruby-lang.org/en/" target="_blank"> <img src="image/ruby.png" height="auto" width="50px"alt="Ruby" /> </a>
 <a href="https://rust-lang.org" target="_blank"> <img src="image/rust.png" height="auto" width="50px"alt="Rust" /> </a>
 <a href="https://typescriptlang.org/" target="_blank"> <img src="image/typescript.png" height="auto" width="50px" alt="Typescript" /> </a>
+<a href="https://www.lua.org" target="_blank"> <img src="image/lua.png" height="auto" width="50px" alt="Lua" /> </a>
 </p>
 
 <br>
