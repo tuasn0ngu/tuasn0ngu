@@ -50,7 +50,7 @@
 
 <h1>🏆 Achievements:</h1>
 
-<img src="https://github-profile-trophy.vercel.app/?username=HajauIsMyName&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=ngoctienTNT&theme=onedark" />
 
 <br>
 
