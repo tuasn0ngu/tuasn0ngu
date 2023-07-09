@@ -6,7 +6,7 @@
 
 <ul>
 <li><h2>Name: <strong>Tuasn</strong></h2></li>
-<li><h2>Age: <strong>17,5</strong></h2></li>
+<li><h2>Age: <strong>10</strong></h2></li>
 <li><h2>From: <strong>Vietnam </strong></h2></li>
 </ul>
 
